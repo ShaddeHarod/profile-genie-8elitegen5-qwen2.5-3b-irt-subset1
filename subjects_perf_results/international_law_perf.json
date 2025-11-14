@@ -1,0 +1,38 @@
+{
+  "subject": "international_law",
+  "total_questions": 2,
+  "correct_count": 1,
+  "wrong_count": 1,
+  "accuracy_rate": 0.5,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1665.558,
+    "avg_token_generation_rate_toks_per_sec": 33.657,
+    "total_processed_answers": 2
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      3114268.0,
+      2823036.0
+    ],
+    "prompt_processing_time_us": [
+      126315.0,
+      122304.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1718.2130126953125,
+      1612.9031982421875
+    ],
+    "token_generation_time_us": [
+      107105.0,
+      2102287.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.34687805175781,
+      29.967933654785156
+    ]
+  }
+}

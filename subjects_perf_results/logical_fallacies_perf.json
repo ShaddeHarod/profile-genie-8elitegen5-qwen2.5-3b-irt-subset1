@@ -1,0 +1,53 @@
+{
+  "subject": "logical_fallacies",
+  "total_questions": 5,
+  "correct_count": 3,
+  "wrong_count": 2,
+  "accuracy_rate": 0.6,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1161.876,
+    "avg_token_generation_rate_toks_per_sec": 37.217,
+    "total_processed_answers": 5
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2928502.0,
+      2917398.0,
+      2951400.0,
+      2963123.0,
+      2892073.0
+    ],
+    "prompt_processing_time_us": [
+      126470.0,
+      125898.0,
+      127550.0,
+      126354.0,
+      125885.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1226.993896484375,
+      1104.972412109375,
+      1200.480224609375,
+      1124.859375,
+      1152.07373046875
+    ],
+    "token_generation_time_us": [
+      106932.0,
+      108682.0,
+      107004.0,
+      106574.0,
+      108237.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.406951904296875,
+      36.805301666259766,
+      37.381778717041016,
+      37.53330993652344,
+      36.95627975463867
+    ]
+  }
+}

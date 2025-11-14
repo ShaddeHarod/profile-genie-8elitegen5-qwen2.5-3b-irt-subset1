@@ -1,0 +1,261 @@
+{
+  "subject": "high_school_macroeconomics",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:05:41",
+      "final_answer": "A",
+      "model_output": "设初始存款为 1000 美元，超额准备金为 70贳=70%。\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2792837,
+        "prompt_processing_time_us": 126095,
+        "prompt_processing_rate_toks_per_sec": 1302.0833740234375,
+        "token_generation_time_us": 1042789,
+        "token_generation_rate_toks_per_sec": 29.728282928466797
+      },
+      "end_timestamp": "2025-11-14 14:05:45"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:05:45",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2807554,
+        "prompt_processing_time_us": 125939,
+        "prompt_processing_rate_toks_per_sec": 1453.4884033203125,
+        "token_generation_time_us": 106388,
+        "token_generation_rate_toks_per_sec": 37.59822463989258
+      },
+      "end_timestamp": "2025-11-14 14:05:49"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:05:49",
+      "final_answer": "D",
+      "model_output": "步骤：\n供给学派经济学家倾向于通过增加总需求来促进经济增长。供给学派经济学家认为政府应该减少干预经济，因此选项 A (增加政府支出) 和 C (降低家庭收入税) 是不合适的。供给学派经济学家倾向于鼓励私人投资，因此选项 D (资本投资税收抵免) 也是正确的。\n\n供给学派经济学家倾向于鼓励出口，因此选项 B (对进口商品征收更高的关税) 是不合适的。\n\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2803408,
+        "prompt_processing_time_us": 127292,
+        "prompt_processing_rate_toks_per_sec": 1162.7906494140625,
+        "token_generation_time_us": 3421183,
+        "token_generation_rate_toks_per_sec": 28.93769645690918
+      },
+      "end_timestamp": "2025-11-14 14:05:55"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:05:56",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2834414,
+        "prompt_processing_time_us": 126164,
+        "prompt_processing_rate_toks_per_sec": 1261.0340576171875,
+        "token_generation_time_us": 106312,
+        "token_generation_rate_toks_per_sec": 37.62510299682617
+      },
+      "end_timestamp": "2025-11-14 14:05:59"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:05:59",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2658703,
+        "prompt_processing_time_us": 125886,
+        "prompt_processing_rate_toks_per_sec": 1248.439453125,
+        "token_generation_time_us": 106026,
+        "token_generation_rate_toks_per_sec": 37.7273063659668
+      },
+      "end_timestamp": "2025-11-14 14:06:02"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:06:02",
+      "final_answer": "C",
+      "model_output": "5. 问题：某国政府决定增加相同数额的政府支出和税收，以保持预算平衡。MPC 为 0.75。在这种情况下，以下哪项是正确的？政策方向     支出乘数     税收乘数\n\nA. 扩张性     4     3\n\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2308439,
+        "prompt_processing_time_us": 122509,
+        "prompt_processing_rate_toks_per_sec": 1748.251708984375,
+        "token_generation_time_us": 2571726,
+        "token_generation_rate_toks_per_sec": 30.719135284423828
+      },
+      "end_timestamp": "2025-11-14 14:06:07"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:06:08",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2552978,
+        "prompt_processing_time_us": 126003,
+        "prompt_processing_rate_toks_per_sec": 1398.6014404296875,
+        "token_generation_time_us": 106787,
+        "token_generation_rate_toks_per_sec": 37.45879364013672
+      },
+      "end_timestamp": "2025-11-14 14:06:11"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:06:11",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2756722,
+        "prompt_processing_time_us": 126482,
+        "prompt_processing_rate_toks_per_sec": 1353.179931640625,
+        "token_generation_time_us": 106754,
+        "token_generation_rate_toks_per_sec": 37.47002410888672
+      },
+      "end_timestamp": "2025-11-14 14:06:14"
+    }
+,
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "start_timestamp": "2025-11-14 14:06:14",
+      "final_answer": "DD",
+      "model_output": "科目：high_school_macroeconomics\n8. 问题：以下哪项不是国民收入的补充？ (high_school_macroeconomics)\nA. 工资\nB. 薪水\nC. 利息\nD. 实物资本折旧\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2538014,
+        "prompt_processing_time_us": 123547,
+        "prompt_processing_rate_toks_per_sec": 1085.7763671875,
+        "token_generation_time_us": 1919142,
+        "token_generation_rate_toks_per_sec": 31.26465606689453
+      },
+      "end_timestamp": "2025-11-14 14:06:19"
+    }
+,
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "start_timestamp": "2025-11-14 14:06:19",
+      "final_answer": "DB",
+      "model_output": "科目：high_school_macroeconomics\n9. 问题：以下哪项是经济衰退时扩张性货币政策的可预见优势？ (high_school_macroeconomics)\nA. 减少总需求，使价格水平下降。\nB. 增加总需求，从而增加实际 GDP 和就业。\nC. 增加失业率，但物价降低会抵消这一影响。\nD. 保持高利率，从而吸引外国人投资。\n答案：B",
+      "performance_metrics": {
+        "init_time_us": 2410440,
+        "prompt_processing_time_us": 126285,
+        "prompt_processing_rate_toks_per_sec": 1371.7420654296875,
+        "token_generation_time_us": 3409236,
+        "token_generation_rate_toks_per_sec": 28.74554443359375
+      },
+      "end_timestamp": "2025-11-14 14:06:25"
+    }
+,
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "start_timestamp": "2025-11-14 14:06:26",
+      "final_answer": "AA",
+      "model_output": "科目：high_school_macroeconomics\n10. 问题：加利福尼亚州对焊工的需求很大，但失业焊工 Bill 却住在纽约。那么 Bill 属于 (high_school_macroeconomics)\nA. 摩擦性失业。\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2832425,
+        "prompt_processing_time_us": 126428,
+        "prompt_processing_rate_toks_per_sec": 1257.8616943359375,
+        "token_generation_time_us": 2064112,
+        "token_generation_rate_toks_per_sec": 29.06892204284668
+      },
+      "end_timestamp": "2025-11-14 14:06:31"
+    }
+,
+    {
+      "question_index": 11,
+      "global_index": 11,
+      "start_timestamp": "2025-11-14 14:06:31",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2847054,
+        "prompt_processing_time_us": 126134,
+        "prompt_processing_rate_toks_per_sec": 1173.7088623046875,
+        "token_generation_time_us": 106878,
+        "token_generation_rate_toks_per_sec": 37.426551818847656
+      },
+      "end_timestamp": "2025-11-14 14:06:34"
+    }
+,
+    {
+      "question_index": 12,
+      "global_index": 12,
+      "start_timestamp": "2025-11-14 14:06:35",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2792587,
+        "prompt_processing_time_us": 127365,
+        "prompt_processing_rate_toks_per_sec": 1751.3134765625,
+        "token_generation_time_us": 106655,
+        "token_generation_rate_toks_per_sec": 37.505157470703125
+      },
+      "end_timestamp": "2025-11-14 14:06:38"
+    }
+,
+    {
+      "question_index": 13,
+      "global_index": 13,
+      "start_timestamp": "2025-11-14 14:06:38",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2604427,
+        "prompt_processing_time_us": 124303,
+        "prompt_processing_rate_toks_per_sec": 1231.527099609375,
+        "token_generation_time_us": 103823,
+        "token_generation_rate_toks_per_sec": 38.528221130371094
+      },
+      "end_timestamp": "2025-11-14 14:06:41"
+    }
+,
+    {
+      "question_index": 14,
+      "global_index": 14,
+      "start_timestamp": "2025-11-14 14:06:41",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2310433,
+        "prompt_processing_time_us": 122897,
+        "prompt_processing_rate_toks_per_sec": 1814.882080078125,
+        "token_generation_time_us": 103481,
+        "token_generation_rate_toks_per_sec": 38.65481185913086
+      },
+      "end_timestamp": "2025-11-14 14:06:44"
+    }
+,
+    {
+      "question_index": 15,
+      "global_index": 15,
+      "start_timestamp": "2025-11-14 14:06:44",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2341136,
+        "prompt_processing_time_us": 126141,
+        "prompt_processing_rate_toks_per_sec": 1197.604736328125,
+        "token_generation_time_us": 107493,
+        "token_generation_rate_toks_per_sec": 37.21207046508789
+      },
+      "end_timestamp": "2025-11-14 14:06:47"
+    }
+
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "subject": "high_school_chemistry",
+  "total_questions": 4,
+  "correct_count": 2,
+  "wrong_count": 2,
+  "accuracy_rate": 0.5,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1536.182,
+    "avg_token_generation_rate_toks_per_sec": 39.576,
+    "total_processed_answers": 4
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2173165.0,
+      2294157.0,
+      2324706.0,
+      2315670.0
+    ],
+    "prompt_processing_time_us": [
+      122131.0,
+      117000.0,
+      66980.0,
+      125791.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1926.7822265625,
+      1170.960205078125,
+      1821.49365234375,
+      1225.490234375
+    ],
+    "token_generation_time_us": [
+      99721.0,
+      102808.0,
+      99932.0,
+      101898.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      40.1123161315918,
+      38.90747833251953,
+      40.027217864990234,
+      39.25571060180664
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "subject": "public_relations",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:17:06",
+      "final_answer": "AA",
+      "model_output": "科目：public_relations\n0. 问题：公关流程的 ________ 阶段包括决定采用哪些战略和战术来响应组织的目标并执行这些战略和战术。 (public_relations)\nA. 规划\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2952964,
+        "prompt_processing_time_us": 121843,
+        "prompt_processing_rate_toks_per_sec": 1157.4073486328125,
+        "token_generation_time_us": 1743017,
+        "token_generation_rate_toks_per_sec": 29.260299682617188
+      },
+      "end_timestamp": "2025-11-14 14:17:11"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:17:11",
+      "final_answer": "DC",
+      "model_output": "科目：public_relations\n1. 问题:在哪种公共关系专业中,将人口细分为心理统计、人口统计和地理统计尤为重要?\nA. 问题管理\nB. 投资者关系\nC. 公共事务\nD. 营销传播\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2950138,
+        "prompt_processing_time_us": 121701,
+        "prompt_processing_rate_toks_per_sec": 1166.861083984375,
+        "token_generation_time_us": 2202453,
+        "token_generation_rate_toks_per_sec": 29.058786392211914
+      },
+      "end_timestamp": "2025-11-14 14:17:16"
+    }
+
+  ]
+}

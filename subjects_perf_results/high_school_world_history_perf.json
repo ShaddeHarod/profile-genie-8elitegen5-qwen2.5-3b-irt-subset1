@@ -1,0 +1,58 @@
+{
+  "subject": "high_school_world_history",
+  "total_questions": 6,
+  "correct_count": 3,
+  "wrong_count": 3,
+  "accuracy_rate": 0.5,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1788.068,
+    "avg_token_generation_rate_toks_per_sec": 37.0,
+    "total_processed_answers": 6
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2911685.0,
+      2958694.0,
+      2851538.0,
+      2970596.0,
+      3001058.0,
+      2896892.0
+    ],
+    "prompt_processing_time_us": [
+      180272.0,
+      179915.0,
+      180694.0,
+      179987.0,
+      180384.0,
+      235768.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1760.5633544921875,
+      1795.3321533203125,
+      1923.076904296875,
+      1862.1973876953125,
+      1642.0361328125,
+      1745.20068359375
+    ],
+    "token_generation_time_us": [
+      108574.0,
+      107233.0,
+      110186.0,
+      107917.0,
+      107588.0,
+      107221.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      36.84191131591797,
+      37.30229949951172,
+      36.30290985107422,
+      37.06586456298828,
+      37.17886734008789,
+      37.30647277832031
+    ]
+  }
+}

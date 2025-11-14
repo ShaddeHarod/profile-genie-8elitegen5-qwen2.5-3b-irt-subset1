@@ -1,0 +1,68 @@
+{
+  "subject": "philosophy",
+  "total_questions": 8,
+  "correct_count": 4,
+  "wrong_count": 4,
+  "accuracy_rate": 0.5,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1174.307,
+    "avg_token_generation_rate_toks_per_sec": 36.034,
+    "total_processed_answers": 8
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2935290.0,
+      2997047.0,
+      2322428.0,
+      2953375.0,
+      2973240.0,
+      2578855.0,
+      2940525.0,
+      2749601.0
+    ],
+    "prompt_processing_time_us": [
+      121649.0,
+      123506.0,
+      121994.0,
+      121761.0,
+      125395.0,
+      122920.0,
+      123029.0,
+      122384.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1135.07373046875,
+      1133.786865234375,
+      1148.1055908203125,
+      1240.69482421875,
+      1037.3443603515625,
+      1245.3299560546875,
+      1236.093994140625,
+      1218.02685546875
+    ],
+    "token_generation_time_us": [
+      107121.0,
+      115972.0,
+      107839.0,
+      106583.0,
+      802321.0,
+      107903.0,
+      106647.0,
+      107167.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.34130096435547,
+      34.491085052490234,
+      37.09336471557617,
+      37.530494689941406,
+      29.913251876831055,
+      37.07136154174805,
+      37.50796890258789,
+      37.325965881347656
+    ]
+  }
+}

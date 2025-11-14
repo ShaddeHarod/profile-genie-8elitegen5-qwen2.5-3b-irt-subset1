@@ -1,0 +1,37 @@
+{
+  "subject": "international_law",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:11:13",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 3114268,
+        "prompt_processing_time_us": 126315,
+        "prompt_processing_rate_toks_per_sec": 1718.2130126953125,
+        "token_generation_time_us": 107105,
+        "token_generation_rate_toks_per_sec": 37.34687805175781
+      },
+      "end_timestamp": "2025-11-14 14:11:16"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:11:17",
+      "final_answer": "AA",
+      "model_output": "科目：international_law\n1. 问题：根据国际责任法，一国的国家机关的所有行为是否都归咎于该国？ (international_law)\nA. 一国任何国家机关的行为应被视为该国的行为，即使该行为未经授权或越权\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2823036,
+        "prompt_processing_time_us": 122304,
+        "prompt_processing_rate_toks_per_sec": 1612.9031982421875,
+        "token_generation_time_us": 2102287,
+        "token_generation_rate_toks_per_sec": 29.967933654785156
+      },
+      "end_timestamp": "2025-11-14 14:11:22"
+    }
+
+  ]
+}

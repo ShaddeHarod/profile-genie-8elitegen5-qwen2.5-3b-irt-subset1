@@ -1,0 +1,48 @@
+{
+  "subject": "econometrics",
+  "total_questions": 4,
+  "correct_count": 2,
+  "wrong_count": 2,
+  "accuracy_rate": 0.5,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1788.324,
+    "avg_token_generation_rate_toks_per_sec": 37.358,
+    "total_processed_answers": 4
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2607254.0,
+      2416442.0,
+      2293595.0,
+      2238428.0
+    ],
+    "prompt_processing_time_us": [
+      116949.0,
+      118407.0,
+      121160.0,
+      116462.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1865.671630859375,
+      1960.7843017578125,
+      1239.1573486328125,
+      2087.6826171875
+    ],
+    "token_generation_time_us": [
+      2617435.0,
+      103332.0,
+      100052.0,
+      100514.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      30.946338653564453,
+      38.71017837524414,
+      39.979209899902344,
+      39.796241760253906
+    ]
+  }
+}

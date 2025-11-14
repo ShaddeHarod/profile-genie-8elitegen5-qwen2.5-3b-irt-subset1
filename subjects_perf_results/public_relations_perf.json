@@ -1,0 +1,38 @@
+{
+  "subject": "public_relations",
+  "total_questions": 2,
+  "correct_count": 0,
+  "wrong_count": 2,
+  "accuracy_rate": 0.0,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1162.134,
+    "avg_token_generation_rate_toks_per_sec": 29.16,
+    "total_processed_answers": 2
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2952964.0,
+      2950138.0
+    ],
+    "prompt_processing_time_us": [
+      121843.0,
+      121701.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1157.4073486328125,
+      1166.861083984375
+    ],
+    "token_generation_time_us": [
+      1743017.0,
+      2202453.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      29.260299682617188,
+      29.058786392211914
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "subject": "prehistory",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:14:24",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2746025,
+        "prompt_processing_time_us": 122691,
+        "prompt_processing_rate_toks_per_sec": 1157.4073486328125,
+        "token_generation_time_us": 105717,
+        "token_generation_rate_toks_per_sec": 37.837223052978516
+      },
+      "end_timestamp": "2025-11-14 14:14:27"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:14:28",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2518830,
+        "prompt_processing_time_us": 118570,
+        "prompt_processing_rate_toks_per_sec": 1536.0982666015625,
+        "token_generation_time_us": 102926,
+        "token_generation_rate_toks_per_sec": 38.86362838745117
+      },
+      "end_timestamp": "2025-11-14 14:14:30"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:14:31",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2504525,
+        "prompt_processing_time_us": 116858,
+        "prompt_processing_rate_toks_per_sec": 1618.1229248046875,
+        "token_generation_time_us": 101397,
+        "token_generation_rate_toks_per_sec": 39.44928741455078
+      },
+      "end_timestamp": "2025-11-14 14:14:34"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:14:34",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2576105,
+        "prompt_processing_time_us": 118685,
+        "prompt_processing_rate_toks_per_sec": 2024.29150390625,
+        "token_generation_time_us": 100569,
+        "token_generation_rate_toks_per_sec": 39.77408218383789
+      },
+      "end_timestamp": "2025-11-14 14:14:37"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:14:37",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2478303,
+        "prompt_processing_time_us": 116721,
+        "prompt_processing_rate_toks_per_sec": 1552.7950439453125,
+        "token_generation_time_us": 100137,
+        "token_generation_rate_toks_per_sec": 39.945674896240234
+      },
+      "end_timestamp": "2025-11-14 14:14:40"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:14:40",
+      "final_answer": "DD",
+      "model_output": "科目：prehistory\n5. 问题：克洛维斯矛尖未在_____发现： (prehistory)\nA. 阿拉斯加。\nB. 墨西哥。\nC. 加拿大。\nD. 美国大陆。  \n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2490973,
+        "prompt_processing_time_us": 119449,
+        "prompt_processing_rate_toks_per_sec": 1122.33447265625,
+        "token_generation_time_us": 1930780,
+        "token_generation_rate_toks_per_sec": 31.076168060302734
+      },
+      "end_timestamp": "2025-11-14 14:14:45"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:14:45",
+      "final_answer": "DB",
+      "model_output": "科目：prehistory\n6. 问题：_________的做法使印加人大大增加了可耕地的数量。 (prehistory)\nA. 灌溉\nB. 梯田\nC. 砍伐和焚烧\nD. 施肥\n答案：B",
+      "performance_metrics": {
+        "init_time_us": 2663150,
+        "prompt_processing_time_us": 121550,
+        "prompt_processing_rate_toks_per_sec": 1102.535888671875,
+        "token_generation_time_us": 2048829,
+        "token_generation_rate_toks_per_sec": 29.28514862060547
+      },
+      "end_timestamp": "2025-11-14 14:14:50"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:14:50",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2922947,
+        "prompt_processing_time_us": 127124,
+        "prompt_processing_rate_toks_per_sec": 1605.136474609375,
+        "token_generation_time_us": 106725,
+        "token_generation_rate_toks_per_sec": 37.479854583740234
+      },
+      "end_timestamp": "2025-11-14 14:14:53"
+    }
+,
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "start_timestamp": "2025-11-14 14:14:54",
+      "final_answer": "CD",
+      "model_output": "科目：prehistory\n8. 问题：街头行人调查的适当性和有用性取决于： (prehistory)\nA. 初级和次级垃圾的存在。\nB. 自然暴露的层，在其中寻找人工制品、生态制品或骨头。\nC. 可以在人工制品、生态制品和骨头之间建立的联系。\nD. 一个人工制品隐藏处或集合的存在。",
+      "performance_metrics": {
+        "init_time_us": 2628229,
+        "prompt_processing_time_us": 118838,
+        "prompt_processing_rate_toks_per_sec": 1364.2564697265625,
+        "token_generation_time_us": 2781340,
+        "token_generation_rate_toks_per_sec": 30.561412811279297
+      },
+      "end_timestamp": "2025-11-14 14:14:59"
+    }
+,
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "start_timestamp": "2025-11-14 14:15:00",
+      "final_answer": "Answer Not Found",
+      "model_output": "步骤：\n- 仔细阅读选项，寻找与米诺斯文明起源相关的线索。\n- 选项A提到克里特岛曾是埃及人的殖民地，这不符合历史事实。埃及人主要活动在北非，与克里特岛无关。\n- 选项B提到早期人类在距今 150,000 年左右越过陆桥来到克里特岛，这与米诺斯文明的起源时间不符。米诺斯文明大约开始于公元前 1900 年左右。\n- 选项C提到克里特岛上居住着希腊人和其他人，但米诺斯文化是当地发展起来的，这与米诺斯文明的起源相符。米诺斯文明被认为是克里特岛本土发展起来的。\n- 选项D提到克里特文化是埃及和美索不达米亚元素的混合体，这与米诺斯文明的起源不符。米诺斯",
+      "performance_metrics": {
+        "init_time_us": 2699122,
+        "prompt_processing_time_us": 125118,
+        "prompt_processing_rate_toks_per_sec": 1689.189208984375,
+        "token_generation_time_us": 7077796,
+        "token_generation_rate_toks_per_sec": 28.258167266845703
+      },
+      "end_timestamp": "2025-11-14 14:15:10"
+    }
+,
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "start_timestamp": "2025-11-14 14:15:10",
+      "final_answer": "A",
+      "model_output": "科目：prehistory\n10. 问题：“祖母效应”指的是： (prehistory)\nA. 许多旧石器时代妇女的过早衰老。\n10. 选项：D",
+      "performance_metrics": {
+        "init_time_us": 3057248,
+        "prompt_processing_time_us": 128088,
+        "prompt_processing_rate_toks_per_sec": 1312.3359375,
+        "token_generation_time_us": 1512716,
+        "token_generation_rate_toks_per_sec": 29.0875244140625
+      },
+      "end_timestamp": "2025-11-14 14:15:15"
+    }
+
+  ]
+}

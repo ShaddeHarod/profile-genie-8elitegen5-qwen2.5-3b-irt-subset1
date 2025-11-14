@@ -1,0 +1,21 @@
+{
+  "subject": "world_religions",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:17:54",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2960966,
+        "prompt_processing_time_us": 126536,
+        "prompt_processing_rate_toks_per_sec": 1194.7431640625,
+        "token_generation_time_us": 106319,
+        "token_generation_rate_toks_per_sec": 37.623687744140625
+      },
+      "end_timestamp": "2025-11-14 14:17:58"
+    }
+
+  ]
+}

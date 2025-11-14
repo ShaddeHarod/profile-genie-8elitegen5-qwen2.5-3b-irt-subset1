@@ -1,0 +1,85 @@
+{
+  "subject": "college_physics",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 13:59:58",
+      "final_answer": "Answer Not Found",
+      "model_output": "设油膜的最小厚度为 d。\n\n反射最大时满足：\n\n\\[2d = rac{n\\lambda}{\\sin{\theta}\\]\n\n其中，\\(\theta\\) 是入射角，\\(\\lambda\\) 是波长，\\(n\\) 是折射率。\n\n因为题目中说“从近法线入射”，说明入射角接近 90°，所以 \\(\\sin{\theta} pprox 1\\)。\n\n代入已知量：\n\n\\[2d = rac{480}{1.2}\\]\n\n\\[d = rac{480}{2.4} = 200\\]\n\n综上所述，本题选择 B.",
+      "performance_metrics": {
+        "init_time_us": 2178762,
+        "prompt_processing_time_us": 112673,
+        "prompt_processing_rate_toks_per_sec": 1838.2353515625,
+        "token_generation_time_us": 4801657,
+        "token_generation_rate_toks_per_sec": 31.03180694580078
+      },
+      "end_timestamp": "2025-11-14 14:00:05"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:00:06",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2544570,
+        "prompt_processing_time_us": 121402,
+        "prompt_processing_rate_toks_per_sec": 1377.4105224609375,
+        "token_generation_time_us": 106601,
+        "token_generation_rate_toks_per_sec": 37.52345275878906
+      },
+      "end_timestamp": "2025-11-14 14:00:08"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:00:09",
+      "final_answer": "C",
+      "model_output": "步骤：\n- 金属传导电子的平均动能通常远高于 kT，这表明电子在宏观上表现出量子化行为，而非经典粒子的行为。\n- 在经典极限下，电子的平均动能由 kT给出，但在量子极限下，电子的行为遵循量子力学的规律，表现为费曼气体。\n- 费曼气体的平均动能高于 kT，这是因为电子在宏观上表现出量子化行为，而不是在热平衡状态下的平均动能。\n- 电子形成简并费曼气体，这意味着电子数密度达到费曼密度，使得电子之间的相互作用变得显著，导致平均动能增加。\n- 电子的相对论性不是直接原因，因为相对论性更多适用于高速粒子，而非宏观电子系统。\n\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2387312,
+        "prompt_processing_time_us": 110148,
+        "prompt_processing_rate_toks_per_sec": 1408.45068359375,
+        "token_generation_time_us": 5154862,
+        "token_generation_rate_toks_per_sec": 31.039512634277344
+      },
+      "end_timestamp": "2025-11-14 14:00:17"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:00:17",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2476818,
+        "prompt_processing_time_us": 118076,
+        "prompt_processing_rate_toks_per_sec": 1424.50146484375,
+        "token_generation_time_us": 98676,
+        "token_generation_rate_toks_per_sec": 40.536705017089844
+      },
+      "end_timestamp": "2025-11-14 14:00:20"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:00:20",
+      "final_answer": "Answer Not Found",
+      "model_output": "设两个电容器的电容分别为 C1 和 C2，其中 C1 = 3 μF, C2 = 6 μF。\n\n根据电容器串联的总电容公式：1/C_total = 1/C1 + 1/C2\n\n代入 C1 和 C2 的值：1/C_total = 1/3 + 1/6 = 1/2\n\n所以 C_total = 2 μF\n\n总电容 C_total = 2 μF\n\n电容 C_total = 2 μF 的电容器存储的能量为：(1/2) * V^2 / C_total\n\n代入 V = 300 V 和 C_total = 2 μF：\n\n(1/2) * 300^2 / 2 = 4500 / 2 = 2250 (单位是伏特^2/法拉)\n\n将伏特^2/",
+      "performance_metrics": {
+        "init_time_us": 2341702,
+        "prompt_processing_time_us": 117208,
+        "prompt_processing_rate_toks_per_sec": 1562.5,
+        "token_generation_time_us": 6584617,
+        "token_generation_rate_toks_per_sec": 30.373903274536133
+      },
+      "end_timestamp": "2025-11-14 14:00:29"
+    }
+
+  ]
+}

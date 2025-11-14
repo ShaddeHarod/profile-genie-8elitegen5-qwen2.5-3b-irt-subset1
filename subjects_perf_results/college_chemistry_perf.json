@@ -1,0 +1,48 @@
+{
+  "subject": "college_chemistry",
+  "total_questions": 4,
+  "correct_count": 1,
+  "wrong_count": 3,
+  "accuracy_rate": 0.25,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1393.046,
+    "avg_token_generation_rate_toks_per_sec": 37.014,
+    "total_processed_answers": 4
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      1836152.0,
+      1834545.0,
+      2117245.0,
+      2103979.0
+    ],
+    "prompt_processing_time_us": [
+      108566.0,
+      110412.0,
+      108786.0,
+      110279.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1216.5450439453125,
+      1631.3214111328125,
+      1472.7540283203125,
+      1251.564453125
+    ],
+    "token_generation_time_us": [
+      95939.0,
+      1806422.0,
+      96060.0,
+      2027586.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      41.694461822509766,
+      32.66159439086914,
+      41.64064025878906,
+      32.058475494384766
+    ]
+  }
+}

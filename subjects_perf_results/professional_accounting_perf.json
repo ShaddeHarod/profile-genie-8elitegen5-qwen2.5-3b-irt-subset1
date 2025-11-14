@@ -1,0 +1,53 @@
+{
+  "subject": "professional_accounting",
+  "total_questions": 5,
+  "correct_count": 3,
+  "wrong_count": 2,
+  "accuracy_rate": 0.6,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1482.116,
+    "avg_token_generation_rate_toks_per_sec": 35.538,
+    "total_processed_answers": 5
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2998403.0,
+      2878880.0,
+      2904174.0,
+      2902405.0,
+      3297361.0
+    ],
+    "prompt_processing_time_us": [
+      182078.0,
+      126353.0,
+      125940.0,
+      126953.0,
+      181182.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1428.5714111328125,
+      1322.7513427734375,
+      1733.102294921875,
+      1457.7259521484375,
+      1468.4288330078125
+    ],
+    "token_generation_time_us": [
+      107659.0,
+      107243.0,
+      106996.0,
+      6981480.0,
+      107100.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.1553840637207,
+      37.29951477050781,
+      37.38457489013672,
+      28.50464630126953,
+      37.34827423095703
+    ]
+  }
+}

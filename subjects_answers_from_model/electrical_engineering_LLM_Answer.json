@@ -1,0 +1,69 @@
+{
+  "subject": "electrical_engineering",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:01:48",
+      "final_answer": "D",
+      "model_output": "科目：electrical_engineering\nD. 灵敏度。\n\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2325384,
+        "prompt_processing_time_us": 119162,
+        "prompt_processing_rate_toks_per_sec": 1158.74853515625,
+        "token_generation_time_us": 625397,
+        "token_generation_rate_toks_per_sec": 31.98055648803711
+      },
+      "end_timestamp": "2025-11-14 14:01:51"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:01:51",
+      "final_answer": "DD",
+      "model_output": "科目：electrical_engineering\n1. 问题：通过使用下列哪一个元件，可以得到机械平移系统？ (electrical_engineering)\nA. 质量元件\nB. 弹簧元件\nC. 减震器\nD. 以上都是\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2291050,
+        "prompt_processing_time_us": 116639,
+        "prompt_processing_rate_toks_per_sec": 1175.088134765625,
+        "token_generation_time_us": 2016950,
+        "token_generation_rate_toks_per_sec": 31.23535919189453
+      },
+      "end_timestamp": "2025-11-14 14:01:56"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:01:56",
+      "final_answer": "C",
+      "model_output": "科目：electrical_engineering\n2. 问题：在制造过程中被编程的 ROM 称为 (electrical_engineering)\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2435482,
+        "prompt_processing_time_us": 68989,
+        "prompt_processing_rate_toks_per_sec": 1798.5611572265625,
+        "token_generation_time_us": 1056644,
+        "token_generation_rate_toks_per_sec": 31.231456756591797
+      },
+      "end_timestamp": "2025-11-14 14:02:00"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:02:00",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2323881,
+        "prompt_processing_time_us": 125315,
+        "prompt_processing_rate_toks_per_sec": 1197.604736328125,
+        "token_generation_time_us": 99214,
+        "token_generation_rate_toks_per_sec": 40.31770324707031
+      },
+      "end_timestamp": "2025-11-14 14:02:02"
+    }
+
+  ]
+}

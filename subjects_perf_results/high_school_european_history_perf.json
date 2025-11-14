@@ -1,0 +1,71 @@
+{
+  "subject": "high_school_european_history",
+  "total_questions": 8,
+  "correct_count": 2,
+  "wrong_count": 6,
+  "accuracy_rate": 0.25,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      0,
+      6
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1928.414,
+    "avg_token_generation_rate_toks_per_sec": 34.242,
+    "total_processed_answers": 8
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2647039.0,
+      2783403.0,
+      2813253.0,
+      2694339.0,
+      2714067.0,
+      2366364.0,
+      2598658.0,
+      2977776.0
+    ],
+    "prompt_processing_time_us": [
+      327627.0,
+      173185.0,
+      121966.0,
+      225984.0,
+      275825.0,
+      224453.0,
+      217852.0,
+      180021.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      2079.002197265625,
+      1727.11572265625,
+      1960.7843017578125,
+      2227.17138671875,
+      1872.6591796875,
+      1851.851806640625,
+      2141.32763671875,
+      1567.3980712890625
+    ],
+    "token_generation_time_us": [
+      6965495.0,
+      107557.0,
+      870026.0,
+      108800.0,
+      105706.0,
+      107312.0,
+      6789294.0,
+      108674.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      28.713354110717773,
+      37.1899299621582,
+      29.884645462036133,
+      36.764705657958984,
+      37.84151840209961,
+      37.27449035644531,
+      29.45855140686035,
+      36.80801010131836
+    ]
+  }
+}

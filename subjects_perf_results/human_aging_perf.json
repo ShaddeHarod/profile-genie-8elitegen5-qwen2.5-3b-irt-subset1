@@ -1,0 +1,38 @@
+{
+  "subject": "human_aging",
+  "total_questions": 2,
+  "correct_count": 1,
+  "wrong_count": 1,
+  "accuracy_rate": 0.5,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1158.283,
+    "avg_token_generation_rate_toks_per_sec": 32.801,
+    "total_processed_answers": 2
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2937102.0,
+      2948267.0
+    ],
+    "prompt_processing_time_us": [
+      126183.0,
+      126110.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1173.7088623046875,
+      1142.857177734375
+    ],
+    "token_generation_time_us": [
+      107712.0,
+      6885613.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.13606643676758,
+      28.4656982421875
+    ]
+  }
+}

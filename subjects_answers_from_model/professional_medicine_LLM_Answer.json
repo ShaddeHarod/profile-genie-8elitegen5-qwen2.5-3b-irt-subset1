@@ -1,0 +1,85 @@
+{
+  "subject": "professional_medicine",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:15:41",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 3001786,
+        "prompt_processing_time_us": 180063,
+        "prompt_processing_rate_toks_per_sec": 1572.3270263671875,
+        "token_generation_time_us": 107891,
+        "token_generation_rate_toks_per_sec": 37.07548522949219
+      },
+      "end_timestamp": "2025-11-14 14:15:44"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:15:44",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2943755,
+        "prompt_processing_time_us": 179969,
+        "prompt_processing_rate_toks_per_sec": 1618.1229248046875,
+        "token_generation_time_us": 108337,
+        "token_generation_rate_toks_per_sec": 36.92216873168945
+      },
+      "end_timestamp": "2025-11-14 14:15:48"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:15:48",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2961065,
+        "prompt_processing_time_us": 125988,
+        "prompt_processing_rate_toks_per_sec": 1597.444091796875,
+        "token_generation_time_us": 107497,
+        "token_generation_rate_toks_per_sec": 37.21068572998047
+      },
+      "end_timestamp": "2025-11-14 14:15:51"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:15:52",
+      "final_answer": "B",
+      "model_output": "步骤：\n- 评估患者症状（如水肿、体重增加）提示心力衰竭的可能性。\n- 评估患者病史（如镰状细胞特质、贫血、慢性炎症、吸烟、饮酒、可卡因使用、单一性伴侣关系）提示慢性肾脏疾病的可能性。\n- 评估体检发现（如眼睑水肿、鼓胀、凹陷性水肿）提示心力衰竭的可能性。\n- 评估实验室检查结果（如血压、血清 B 型钠尿肽浓度、尿蛋白浓度）提示心力衰竭或慢性肾脏疾病的可能性。\n- 评估HIV抗体研究因其与心力衰竭或慢性肾脏疾病无关。\n\n答案：B",
+      "performance_metrics": {
+        "init_time_us": 2919435,
+        "prompt_processing_time_us": 233865,
+        "prompt_processing_rate_toks_per_sec": 1724.137939453125,
+        "token_generation_time_us": 5082672,
+        "token_generation_rate_toks_per_sec": 28.529043197631836
+      },
+      "end_timestamp": "2025-11-14 14:16:00"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:16:00",
+      "final_answer": "A",
+      "model_output": "步骤：\n- 从题目描述来看，患者有吞咽困难和说话含糊不清的症状，这可能是由于吞咽肌肉（尤其是声带和声带附近的肌肉）受损所致。\n- 舌头检查显示肌肉萎缩和肌束颤动，这支持了肌肉受损的诊断。\n- 左下肢的深部肌腱反射减弱，并有肌束颤动，这支持了运动神经元病的诊断。\n- 左上肢的深部肌腱反射亢进，这支持了运动神经元病的诊断。\n- 综合以上症状，最可能的诊断是肌萎缩侧索硬化。\n\n步骤完\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 3285287,
+        "prompt_processing_time_us": 126320,
+        "prompt_processing_rate_toks_per_sec": 1703.5775146484375,
+        "token_generation_time_us": 5044737,
+        "token_generation_rate_toks_per_sec": 28.347082138061523
+      },
+      "end_timestamp": "2025-11-14 14:16:09"
+    }
+
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "subject": "anatomy",
+  "total_questions": 5,
+  "correct_count": 3,
+  "wrong_count": 2,
+  "accuracy_rate": 0.6,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1436.986,
+    "avg_token_generation_rate_toks_per_sec": 37.704,
+    "total_processed_answers": 5
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      1926222.0,
+      1882982.0,
+      1889814.0,
+      2045955.0,
+      2139634.0
+    ],
+    "prompt_processing_time_us": [
+      102107.0,
+      110517.0,
+      109226.0,
+      103447.0,
+      78307.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1430.6151123046875,
+      1312.3359375,
+      1447.177978515625,
+      1422.47509765625,
+      1572.3270263671875
+    ],
+    "token_generation_time_us": [
+      98217.0,
+      96236.0,
+      2047717.0,
+      4516948.0,
+      94870.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      40.7265625,
+      41.56448745727539,
+      31.74300765991211,
+      32.32270812988281,
+      42.163848876953125
+    ]
+  }
+}

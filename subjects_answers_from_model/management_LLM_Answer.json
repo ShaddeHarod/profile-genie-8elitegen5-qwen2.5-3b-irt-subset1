@@ -1,0 +1,53 @@
+{
+  "subject": "management",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:11:44",
+      "final_answer": "C",
+      "model_output": "起始步骤：规范性视角指的是从理想化的、理想化的角度来审视问题，即从“本来应该是什么样子”的角度来考虑问题。\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2885329,
+        "prompt_processing_time_us": 72264,
+        "prompt_processing_rate_toks_per_sec": 1730.103759765625,
+        "token_generation_time_us": 1230857,
+        "token_generation_rate_toks_per_sec": 29.24831771850586
+      },
+      "end_timestamp": "2025-11-14 14:11:48"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:11:49",
+      "final_answer": "DC",
+      "model_output": "科目：management\n1. 问题：哪项不是公认的业务连续性规划形式？ (management)\nA. 应急规划\nB. 情景规划\nC. 财务规划\nD. 建设规划\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2916563,
+        "prompt_processing_time_us": 126499,
+        "prompt_processing_rate_toks_per_sec": 1036.2694091796875,
+        "token_generation_time_us": 2007048,
+        "token_generation_rate_toks_per_sec": 28.898393630981445
+      },
+      "end_timestamp": "2025-11-14 14:11:54"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:11:54",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2649066,
+        "prompt_processing_time_us": 126533,
+        "prompt_processing_rate_toks_per_sec": 1131.2216796875,
+        "token_generation_time_us": 106989,
+        "token_generation_rate_toks_per_sec": 37.38737106323242
+      },
+      "end_timestamp": "2025-11-14 14:11:57"
+    }
+
+  ]
+}

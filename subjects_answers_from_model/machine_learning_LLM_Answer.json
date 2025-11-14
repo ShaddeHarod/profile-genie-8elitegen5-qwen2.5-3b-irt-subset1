@@ -1,0 +1,21 @@
+{
+  "subject": "machine_learning",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:11:40",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2958568,
+        "prompt_processing_time_us": 126360,
+        "prompt_processing_rate_toks_per_sec": 1600.0,
+        "token_generation_time_us": 107259,
+        "token_generation_rate_toks_per_sec": 37.293949127197266
+      },
+      "end_timestamp": "2025-11-14 14:11:44"
+    }
+
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "subject": "nutrition",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:13:17",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2978271,
+        "prompt_processing_time_us": 121168,
+        "prompt_processing_rate_toks_per_sec": 1436.7816162109375,
+        "token_generation_time_us": 108282,
+        "token_generation_rate_toks_per_sec": 36.94126510620117
+      },
+      "end_timestamp": "2025-11-14 14:13:21"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:13:21",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 3033105,
+        "prompt_processing_time_us": 121637,
+        "prompt_processing_rate_toks_per_sec": 1118.5682373046875,
+        "token_generation_time_us": 107131,
+        "token_generation_rate_toks_per_sec": 37.3385124206543
+      },
+      "end_timestamp": "2025-11-14 14:13:24"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:13:25",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2958620,
+        "prompt_processing_time_us": 69662,
+        "prompt_processing_rate_toks_per_sec": 1838.2353515625,
+        "token_generation_time_us": 107333,
+        "token_generation_rate_toks_per_sec": 37.26754379272461
+      },
+      "end_timestamp": "2025-11-14 14:13:28"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:13:28",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2936486,
+        "prompt_processing_time_us": 121786,
+        "prompt_processing_rate_toks_per_sec": 1644.73681640625,
+        "token_generation_time_us": 106207,
+        "token_generation_rate_toks_per_sec": 37.66336441040039
+      },
+      "end_timestamp": "2025-11-14 14:13:31"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:13:32",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2954043,
+        "prompt_processing_time_us": 121743,
+        "prompt_processing_rate_toks_per_sec": 1191.8951416015625,
+        "token_generation_time_us": 106481,
+        "token_generation_rate_toks_per_sec": 37.565738677978516
+      },
+      "end_timestamp": "2025-11-14 14:13:35"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:13:35",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2951465,
+        "prompt_processing_time_us": 122242,
+        "prompt_processing_rate_toks_per_sec": 1129.9434814453125,
+        "token_generation_time_us": 105972,
+        "token_generation_rate_toks_per_sec": 37.745819091796875
+      },
+      "end_timestamp": "2025-11-14 14:13:39"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:13:39",
+      "final_answer": "B",
+      "model_output": "科目：nutrition\n6. 问题：摄入水果和蔬菜 (nutrition)\nB. 与骨骼健康的关系不确定，因为相关生活方式因素（如吸烟、运动和饮酒）是研究的混杂因素",
+      "performance_metrics": {
+        "init_time_us": 2903746,
+        "prompt_processing_time_us": 121972,
+        "prompt_processing_rate_toks_per_sec": 1321.00390625,
+        "token_generation_time_us": 1494859,
+        "token_generation_rate_toks_per_sec": 29.43427276611328
+      },
+      "end_timestamp": "2025-11-14 14:13:44"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:13:44",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2969045,
+        "prompt_processing_time_us": 124481,
+        "prompt_processing_rate_toks_per_sec": 1600.0,
+        "token_generation_time_us": 107933,
+        "token_generation_rate_toks_per_sec": 37.06037139892578
+      },
+      "end_timestamp": "2025-11-14 14:13:47"
+    }
+,
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "start_timestamp": "2025-11-14 14:13:48",
+      "final_answer": "B",
+      "model_output": "科目：nutrition\n8. 问题：“功能性隔离”一词是什么意思? (nutrition)\n答案：B",
+      "performance_metrics": {
+        "init_time_us": 2964867,
+        "prompt_processing_time_us": 122908,
+        "prompt_processing_rate_toks_per_sec": 1335.113525390625,
+        "token_generation_time_us": 802482,
+        "token_generation_rate_toks_per_sec": 29.90788459777832
+      },
+      "end_timestamp": "2025-11-14 14:13:52"
+    }
+,
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "start_timestamp": "2025-11-14 14:13:52",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2898655,
+        "prompt_processing_time_us": 123353,
+        "prompt_processing_rate_toks_per_sec": 1420.45458984375,
+        "token_generation_time_us": 108466,
+        "token_generation_rate_toks_per_sec": 36.878597259521484
+      },
+      "end_timestamp": "2025-11-14 14:13:55"
+    }
+
+  ]
+}

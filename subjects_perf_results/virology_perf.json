@@ -1,0 +1,48 @@
+{
+  "subject": "virology",
+  "total_questions": 4,
+  "correct_count": 0,
+  "wrong_count": 4,
+  "accuracy_rate": 0.0,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1177.131,
+    "avg_token_generation_rate_toks_per_sec": 35.402,
+    "total_processed_answers": 4
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2962814.0,
+      2979502.0,
+      2958170.0,
+      2959747.0
+    ],
+    "prompt_processing_time_us": [
+      126147.0,
+      126452.0,
+      126291.0,
+      126072.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1126.1260986328125,
+      1179.2452392578125,
+      1132.5028076171875,
+      1270.6480712890625
+    ],
+    "token_generation_time_us": [
+      106788.0,
+      106375.0,
+      106513.0,
+      2966214.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.457393646240234,
+      37.6038818359375,
+      37.5544548034668,
+      28.993911743164062
+    ]
+  }
+}

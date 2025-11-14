@@ -1,0 +1,85 @@
+{
+  "subject": "college_biology",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 13:58:58",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2246721,
+        "prompt_processing_time_us": 110901,
+        "prompt_processing_rate_toks_per_sec": 1308.9005126953125,
+        "token_generation_time_us": 101337,
+        "token_generation_rate_toks_per_sec": 39.4726448059082
+      },
+      "end_timestamp": "2025-11-14 13:59:00"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 13:59:01",
+      "final_answer": "D",
+      "model_output": "步骤：为了检验蚂蚁通过杀死或驱逐食叶昆虫来保护植物的假设，我们需要观察蚂蚁的行为和植物的健康状况。\n\n- 实验A：移除蚂蚁并测量随后的叶片损伤。 如果叶片损伤增加，这支持假设，因为蚂蚁可能会杀死或驱逐食叶昆虫以保护叶片。\n- 实验B：移除富含油脂的蚂蚁躯体，并测量随后的蚂蚁密度。 这个实验不会直接说明蚂蚁是否杀死或驱逐食叶昆虫，因为这不会改变蚂蚁的数量。\n- 实验C：移除刺并测量随后的蚂蚁密度。 这个实验不会说明蚂蚁是否杀死或驱逐食叶昆虫，因为刺的存在不会改变蚂蚁的数量。\n- 实验D：移除食叶昆虫并测量随后的蚂蚁密度。 如果蚂蚁密度增加，这支持假设，因为蚂蚁可能会杀死或驱逐食叶昆虫。\n\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 1827985,
+        "prompt_processing_time_us": 108154,
+        "prompt_processing_rate_toks_per_sec": 1886.79248046875,
+        "token_generation_time_us": 6115870,
+        "token_generation_rate_toks_per_sec": 31.557687759399414
+      },
+      "end_timestamp": "2025-11-14 13:59:09"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 13:59:09",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2365969,
+        "prompt_processing_time_us": 118887,
+        "prompt_processing_rate_toks_per_sec": 2079.002197265625,
+        "token_generation_time_us": 99144,
+        "token_generation_rate_toks_per_sec": 40.34535598754883
+      },
+      "end_timestamp": "2025-11-14 13:59:12"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 13:59:12",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2268488,
+        "prompt_processing_time_us": 109520,
+        "prompt_processing_rate_toks_per_sec": 1307.1895751953125,
+        "token_generation_time_us": 97028,
+        "token_generation_rate_toks_per_sec": 41.22521209716797
+      },
+      "end_timestamp": "2025-11-14 13:59:15"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 13:59:15",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2062635,
+        "prompt_processing_time_us": 109950,
+        "prompt_processing_rate_toks_per_sec": 1347.7088623046875,
+        "token_generation_time_us": 94735,
+        "token_generation_rate_toks_per_sec": 42.22438049316406
+      },
+      "end_timestamp": "2025-11-14 13:59:17"
+    }
+
+  ]
+}

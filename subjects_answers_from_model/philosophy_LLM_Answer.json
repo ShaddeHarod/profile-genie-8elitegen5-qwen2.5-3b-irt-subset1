@@ -1,0 +1,133 @@
+{
+  "subject": "philosophy",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:13:56",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2935290,
+        "prompt_processing_time_us": 121649,
+        "prompt_processing_rate_toks_per_sec": 1135.07373046875,
+        "token_generation_time_us": 107121,
+        "token_generation_rate_toks_per_sec": 37.34130096435547
+      },
+      "end_timestamp": "2025-11-14 14:13:59"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:13:59",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2997047,
+        "prompt_processing_time_us": 123506,
+        "prompt_processing_rate_toks_per_sec": 1133.786865234375,
+        "token_generation_time_us": 115972,
+        "token_generation_rate_toks_per_sec": 34.491085052490234
+      },
+      "end_timestamp": "2025-11-14 14:14:03"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:14:03",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2322428,
+        "prompt_processing_time_us": 121994,
+        "prompt_processing_rate_toks_per_sec": 1148.1055908203125,
+        "token_generation_time_us": 107839,
+        "token_generation_rate_toks_per_sec": 37.09336471557617
+      },
+      "end_timestamp": "2025-11-14 14:14:06"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:14:06",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2953375,
+        "prompt_processing_time_us": 121761,
+        "prompt_processing_rate_toks_per_sec": 1240.69482421875,
+        "token_generation_time_us": 106583,
+        "token_generation_rate_toks_per_sec": 37.530494689941406
+      },
+      "end_timestamp": "2025-11-14 14:14:09"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:14:10",
+      "final_answer": "D",
+      "model_output": "伊壁鸠鲁认为哲学是关于快乐的学问，因此哲学应该是所有人都适合的。\n\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2973240,
+        "prompt_processing_time_us": 125395,
+        "prompt_processing_rate_toks_per_sec": 1037.3443603515625,
+        "token_generation_time_us": 802321,
+        "token_generation_rate_toks_per_sec": 29.913251876831055
+      },
+      "end_timestamp": "2025-11-14 14:14:14"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:14:14",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2578855,
+        "prompt_processing_time_us": 122920,
+        "prompt_processing_rate_toks_per_sec": 1245.3299560546875,
+        "token_generation_time_us": 107903,
+        "token_generation_rate_toks_per_sec": 37.07136154174805
+      },
+      "end_timestamp": "2025-11-14 14:14:17"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:14:17",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2940525,
+        "prompt_processing_time_us": 123029,
+        "prompt_processing_rate_toks_per_sec": 1236.093994140625,
+        "token_generation_time_us": 106647,
+        "token_generation_rate_toks_per_sec": 37.50796890258789
+      },
+      "end_timestamp": "2025-11-14 14:14:20"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:14:21",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2749601,
+        "prompt_processing_time_us": 122384,
+        "prompt_processing_rate_toks_per_sec": 1218.02685546875,
+        "token_generation_time_us": 107167,
+        "token_generation_rate_toks_per_sec": 37.325965881347656
+      },
+      "end_timestamp": "2025-11-14 14:14:24"
+    }
+
+  ]
+}

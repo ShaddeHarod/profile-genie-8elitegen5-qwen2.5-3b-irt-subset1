@@ -1,0 +1,48 @@
+{
+  "subject": "electrical_engineering",
+  "total_questions": 4,
+  "correct_count": 0,
+  "wrong_count": 4,
+  "accuracy_rate": 0.0,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1332.501,
+    "avg_token_generation_rate_toks_per_sec": 33.691,
+    "total_processed_answers": 4
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2325384.0,
+      2291050.0,
+      2435482.0,
+      2323881.0
+    ],
+    "prompt_processing_time_us": [
+      119162.0,
+      116639.0,
+      68989.0,
+      125315.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1158.74853515625,
+      1175.088134765625,
+      1798.5611572265625,
+      1197.604736328125
+    ],
+    "token_generation_time_us": [
+      625397.0,
+      2016950.0,
+      1056644.0,
+      99214.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      31.98055648803711,
+      31.23535919189453,
+      31.231456756591797,
+      40.31770324707031
+    ]
+  }
+}

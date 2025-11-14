@@ -1,0 +1,85 @@
+{
+  "subject": "professional_accounting",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:15:15",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2998403,
+        "prompt_processing_time_us": 182078,
+        "prompt_processing_rate_toks_per_sec": 1428.5714111328125,
+        "token_generation_time_us": 107659,
+        "token_generation_rate_toks_per_sec": 37.1553840637207
+      },
+      "end_timestamp": "2025-11-14 14:15:19"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:15:19",
+      "final_answer": "BC",
+      "model_output": "B\nC",
+      "performance_metrics": {
+        "init_time_us": 2878880,
+        "prompt_processing_time_us": 126353,
+        "prompt_processing_rate_toks_per_sec": 1322.7513427734375,
+        "token_generation_time_us": 107243,
+        "token_generation_rate_toks_per_sec": 37.29951477050781
+      },
+      "end_timestamp": "2025-11-14 14:15:22"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:15:22",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2904174,
+        "prompt_processing_time_us": 125940,
+        "prompt_processing_rate_toks_per_sec": 1733.102294921875,
+        "token_generation_time_us": 106996,
+        "token_generation_rate_toks_per_sec": 37.38457489013672
+      },
+      "end_timestamp": "2025-11-14 14:15:26"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:15:26",
+      "final_answer": "B",
+      "model_output": "步骤：为了确定企业基金的分类，我们需要考虑几个关键特征。首先，我们需要明确企业基金的定义和分类标准。企业基金通常用于描述那些旨在收回成本和收取费用的活动。接下来，我们逐一分析选项：\n\nA. 主要客户是基层政府。 - 这个选项描述了客户群体，而不是分类特征。\n\nB. 活动的定价政策确定了旨在收回成本的费用和收费。 - 这个选项描述了定价政策，也是分类的一个重要特征。\n\nC. 活动由债务融资，该债务部分由活动费用和收费的净收入抵押担保。 - 这个选项描述了融资方式，而不是分类特征。\n\nD. 法律或法规要求通过税收或类似收入来收回提供服务的成本（包括资本成本）。 - 这个选项描述了法律要求，而不是分类特征。\n\n经过分析，B选项最符合企业基金分类的特征。\n\n答案：B",
+      "performance_metrics": {
+        "init_time_us": 2902405,
+        "prompt_processing_time_us": 126953,
+        "prompt_processing_rate_toks_per_sec": 1457.7259521484375,
+        "token_generation_time_us": 6981480,
+        "token_generation_rate_toks_per_sec": 28.50464630126953
+      },
+      "end_timestamp": "2025-11-14 14:15:36"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:15:37",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 3297361,
+        "prompt_processing_time_us": 181182,
+        "prompt_processing_rate_toks_per_sec": 1468.4288330078125,
+        "token_generation_time_us": 107100,
+        "token_generation_rate_toks_per_sec": 37.34827423095703
+      },
+      "end_timestamp": "2025-11-14 14:15:40"
+    }
+
+  ]
+}

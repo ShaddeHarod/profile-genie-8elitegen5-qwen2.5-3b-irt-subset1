@@ -28,8 +28,6 @@ temp/
 *.device
 adb.*
 
-# PowerShell scripts (Windows specific)
-*.ps1
 
 # Claude settings
 .claude/

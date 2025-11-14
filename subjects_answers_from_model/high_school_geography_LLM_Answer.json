@@ -1,0 +1,101 @@
+{
+  "subject": "high_school_geography",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:05:18",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2573876,
+        "prompt_processing_time_us": 124220,
+        "prompt_processing_rate_toks_per_sec": 1418.439697265625,
+        "token_generation_time_us": 100998,
+        "token_generation_rate_toks_per_sec": 39.60552978515625
+      },
+      "end_timestamp": "2025-11-14 14:05:21"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:05:21",
+      "final_answer": "AA",
+      "model_output": "科目：high_school_geography\n1. 问题：在中心城区以外工作岗位多于居民的大型办公和商业用地节点是 (high_school_geography)\nA. 郊区。\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2310736,
+        "prompt_processing_time_us": 123418,
+        "prompt_processing_rate_toks_per_sec": 1150.748046875,
+        "token_generation_time_us": 1407702,
+        "token_generation_rate_toks_per_sec": 31.256837844848633
+      },
+      "end_timestamp": "2025-11-14 14:05:25"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:05:25",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2433202,
+        "prompt_processing_time_us": 127348,
+        "prompt_processing_rate_toks_per_sec": 1091.7030029296875,
+        "token_generation_time_us": 107762,
+        "token_generation_rate_toks_per_sec": 37.11952590942383
+      },
+      "end_timestamp": "2025-11-14 14:05:28"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:05:28",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2821653,
+        "prompt_processing_time_us": 126165,
+        "prompt_processing_rate_toks_per_sec": 1269.0355224609375,
+        "token_generation_time_us": 105717,
+        "token_generation_rate_toks_per_sec": 37.837223052978516
+      },
+      "end_timestamp": "2025-11-14 14:05:31"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:05:32",
+      "final_answer": "A",
+      "model_output": "步骤：\n- 法国移民是加拿大最早的移民之一，因此A选项正确。\n- 不列颠群岛移民是加拿大第二大移民流，因此B选项正确。\n- 美国的第一大移民潮源自欧洲，因此D选项正确。\n- 拉美移民是加拿大第三大移民流，因此C选项正确。\n\n步骤结束\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2580532,
+        "prompt_processing_time_us": 123013,
+        "prompt_processing_rate_toks_per_sec": 1333.3333740234375,
+        "token_generation_time_us": 2725044,
+        "token_generation_rate_toks_per_sec": 29.35736656188965
+      },
+      "end_timestamp": "2025-11-14 14:05:37"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:05:37",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2817124,
+        "prompt_processing_time_us": 126813,
+        "prompt_processing_rate_toks_per_sec": 1112.3470458984375,
+        "token_generation_time_us": 106651,
+        "token_generation_rate_toks_per_sec": 37.50656509399414
+      },
+      "end_timestamp": "2025-11-14 14:05:41"
+    }
+
+  ]
+}

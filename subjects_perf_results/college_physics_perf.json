@@ -1,0 +1,56 @@
+{
+  "subject": "college_physics",
+  "total_questions": 5,
+  "correct_count": 2,
+  "wrong_count": 3,
+  "accuracy_rate": 0.4,
+  "answer_not_found": {
+    "count": 2,
+    "question_indices": [
+      0,
+      4
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1522.22,
+    "avg_token_generation_rate_toks_per_sec": 34.101,
+    "total_processed_answers": 5
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2178762.0,
+      2544570.0,
+      2387312.0,
+      2476818.0,
+      2341702.0
+    ],
+    "prompt_processing_time_us": [
+      112673.0,
+      121402.0,
+      110148.0,
+      118076.0,
+      117208.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1838.2353515625,
+      1377.4105224609375,
+      1408.45068359375,
+      1424.50146484375,
+      1562.5
+    ],
+    "token_generation_time_us": [
+      4801657.0,
+      106601.0,
+      5154862.0,
+      98676.0,
+      6584617.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      31.03180694580078,
+      37.52345275878906,
+      31.039512634277344,
+      40.536705017089844,
+      30.373903274536133
+    ]
+  }
+}

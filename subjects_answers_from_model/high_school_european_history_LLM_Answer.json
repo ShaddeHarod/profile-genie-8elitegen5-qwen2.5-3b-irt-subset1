@@ -1,0 +1,133 @@
+{
+  "subject": "high_school_european_history",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:04:35",
+      "final_answer": "Answer Not Found",
+      "model_output": "科目：high_school_european_history\n0. 问题：本问题涉及以下信息。\n“可是你呢, 我亲爱的潘格罗斯, ”赣第德说, “我怎么会又见到你呢?”\n“这是真的, ”潘格罗斯说, “你看见我被绞死了……一位外科医生买下了我的尸体, 把我抬回家, 解剖了我。他首先在我身上从肚脐到锁骨处做了一个关键的切口。没有人比我在绞刑时更惨了。神圣宗教裁判所的刽子手是个副执事, 他非常懂得如何把人烧死, 但他不习惯绞刑。绳子是湿的, 不能很好地滑动, 且系得很紧。简而言之, 当那个关键的切口让我发出可怕的尖叫使我的外科医生仰面朝天地倒下时, 我仍然屏住了呼吸……[最后他]缝合了我的伤口",
+      "performance_metrics": {
+        "init_time_us": 2647039,
+        "prompt_processing_time_us": 327627,
+        "prompt_processing_rate_toks_per_sec": 2079.002197265625,
+        "token_generation_time_us": 6965495,
+        "token_generation_rate_toks_per_sec": 28.713354110717773
+      },
+      "end_timestamp": "2025-11-14 14:04:45"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:04:45",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2783403,
+        "prompt_processing_time_us": 173185,
+        "prompt_processing_rate_toks_per_sec": 1727.11572265625,
+        "token_generation_time_us": 107557,
+        "token_generation_rate_toks_per_sec": 37.1899299621582
+      },
+      "end_timestamp": "2025-11-14 14:04:48"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:04:49",
+      "final_answer": "D",
+      "model_output": "科目：high_school_european_history\n2. 《南京条约》，1839 年\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2813253,
+        "prompt_processing_time_us": 121966,
+        "prompt_processing_rate_toks_per_sec": 1960.7843017578125,
+        "token_generation_time_us": 870026,
+        "token_generation_rate_toks_per_sec": 29.884645462036133
+      },
+      "end_timestamp": "2025-11-14 14:04:53"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:04:53",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2694339,
+        "prompt_processing_time_us": 225984,
+        "prompt_processing_rate_toks_per_sec": 2227.17138671875,
+        "token_generation_time_us": 108800,
+        "token_generation_rate_toks_per_sec": 36.764705657958984
+      },
+      "end_timestamp": "2025-11-14 14:04:56"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:04:57",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2714067,
+        "prompt_processing_time_us": 275825,
+        "prompt_processing_rate_toks_per_sec": 1872.6591796875,
+        "token_generation_time_us": 105706,
+        "token_generation_rate_toks_per_sec": 37.84151840209961
+      },
+      "end_timestamp": "2025-11-14 14:05:00"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:05:00",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2366364,
+        "prompt_processing_time_us": 224453,
+        "prompt_processing_rate_toks_per_sec": 1851.851806640625,
+        "token_generation_time_us": 107312,
+        "token_generation_rate_toks_per_sec": 37.27449035644531
+      },
+      "end_timestamp": "2025-11-14 14:05:03"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:05:04",
+      "final_answer": "Answer Not Found",
+      "model_output": "科目：high_school_european_history\n6. 问题：本问题涉及以下信息。\n我认为，廷臣的主要和真正的职业应该是军事职业；我希望廷臣积极地遵循这一原则，并以勇敢、坚强、忠于他所服务的人而闻名. …\n我希望廷臣体格健壮，四肢匀称，表现出力量、轻盈和柔韧，并且懂得一切与战士相称的身体锻炼；我认为首先应该是在步行和骑马时熟练使用各种武器，了解每种武器的优点，特别是熟悉那些通常由绅士使用的武器……\n我们的廷臣将会被尊为卓越，并将获得一切恩典，特别是说到……\n我希望廷臣在文学方面有相当的造诣，至少在那些被称为人文学科的研究方面，不仅精通拉丁语，而且精通希腊语，因为许多令人钦佩的不同的东西是用拉丁文写的。让廷臣了解诗人，同时也不能忽略演说家和历史学家，还要",
+      "performance_metrics": {
+        "init_time_us": 2598658,
+        "prompt_processing_time_us": 217852,
+        "prompt_processing_rate_toks_per_sec": 2141.32763671875,
+        "token_generation_time_us": 6789294,
+        "token_generation_rate_toks_per_sec": 29.45855140686035
+      },
+      "end_timestamp": "2025-11-14 14:05:14"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:05:14",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2977776,
+        "prompt_processing_time_us": 180021,
+        "prompt_processing_rate_toks_per_sec": 1567.3980712890625,
+        "token_generation_time_us": 108674,
+        "token_generation_rate_toks_per_sec": 36.80801010131836
+      },
+      "end_timestamp": "2025-11-14 14:05:17"
+    }
+
+  ]
+}

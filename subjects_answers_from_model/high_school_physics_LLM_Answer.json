@@ -1,0 +1,133 @@
+{
+  "subject": "high_school_physics",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:08:32",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2631296,
+        "prompt_processing_time_us": 126405,
+        "prompt_processing_rate_toks_per_sec": 1392.7576904296875,
+        "token_generation_time_us": 105939,
+        "token_generation_rate_toks_per_sec": 37.75864791870117
+      },
+      "end_timestamp": "2025-11-14 14:08:35"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:08:35",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2878795,
+        "prompt_processing_time_us": 125824,
+        "prompt_processing_rate_toks_per_sec": 1280.4097900390625,
+        "token_generation_time_us": 106811,
+        "token_generation_rate_toks_per_sec": 37.45037841796875
+      },
+      "end_timestamp": "2025-11-14 14:08:39"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:08:39",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2891844,
+        "prompt_processing_time_us": 126517,
+        "prompt_processing_rate_toks_per_sec": 1811.59423828125,
+        "token_generation_time_us": 107134,
+        "token_generation_rate_toks_per_sec": 37.33711624145508
+      },
+      "end_timestamp": "2025-11-14 14:08:42"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:08:43",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2981011,
+        "prompt_processing_time_us": 126739,
+        "prompt_processing_rate_toks_per_sec": 1176.4705810546875,
+        "token_generation_time_us": 106792,
+        "token_generation_rate_toks_per_sec": 37.455989837646484
+      },
+      "end_timestamp": "2025-11-14 14:08:46"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:08:46",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2889019,
+        "prompt_processing_time_us": 126320,
+        "prompt_processing_rate_toks_per_sec": 1228.501220703125,
+        "token_generation_time_us": 109048,
+        "token_generation_rate_toks_per_sec": 36.681095123291016
+      },
+      "end_timestamp": "2025-11-14 14:08:49"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:08:50",
+      "final_answer": "Answer Not Found",
+      "model_output": "为了分析这个问题，我们需要回顾一下自由落体运动的基本概念以及题目给出的条件。题目指出物体受到的阻力与速度成正比，并且在达到极限速度之前落到地面上。这意味着阻力会随速度增加而增加，从而导致加速度逐渐减小。\n\n1. **自由落体运动**：在忽略空气阻力的理想情况下，物体下落时只受到重力作用，加速度恒定为重力加速度（g），方向向下。这意味着加速度是恒定的，与速度无关。\n2. **阻力的影响**：当阻力与速度成正比时，根据牛顿第二定律，加速度 \\(a = rac{F_{net}}{m} = rac{mg - kv}{m} = g - rac{k}{m}v\\)，其中 \\(k\\) 是比例常数，\\(v\\) 是速度，\\(m\\) 是质量。这意味着加速度会随着速度增加而",
+      "performance_metrics": {
+        "init_time_us": 2932243,
+        "prompt_processing_time_us": 128118,
+        "prompt_processing_rate_toks_per_sec": 1515.1514892578125,
+        "token_generation_time_us": 7024769,
+        "token_generation_rate_toks_per_sec": 28.471372604370117
+      },
+      "end_timestamp": "2025-11-14 14:09:00"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:09:00",
+      "final_answer": "C",
+      "model_output": "设石头落下的时间为 t\n\n由题意知：\n- 初始速度 v_0 = 10 m/s (水平方向)\n- 落水高度 h = 80 m\n\n由自由落体运动公式：\n\\[ h = rac{1}{2}gt^2 \\]\n\\[ 80 = rac{1}{2} \times 9.8 \times t^2 \\]\n\\[ t^2 = rac{80}{4.9} \\]\n\\[ t = \\sqrt{rac{80}{4.9}} \\]\n\n计算 t 的值。\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 3158723,
+        "prompt_processing_time_us": 126573,
+        "prompt_processing_rate_toks_per_sec": 1264.2225341796875,
+        "token_generation_time_us": 4694363,
+        "token_generation_rate_toks_per_sec": 28.545330047607422
+      },
+      "end_timestamp": "2025-11-14 14:09:08"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:09:09",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2924591,
+        "prompt_processing_time_us": 126822,
+        "prompt_processing_rate_toks_per_sec": 1798.5611572265625,
+        "token_generation_time_us": 106903,
+        "token_generation_rate_toks_per_sec": 37.418148040771484
+      },
+      "end_timestamp": "2025-11-14 14:09:12"
+    }
+
+  ]
+}

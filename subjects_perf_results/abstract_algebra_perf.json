@@ -1,0 +1,53 @@
+{
+  "subject": "abstract_algebra",
+  "total_questions": 5,
+  "correct_count": 3,
+  "wrong_count": 2,
+  "accuracy_rate": 0.6,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1412.394,
+    "avg_token_generation_rate_toks_per_sec": 38.761,
+    "total_processed_answers": 5
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      1888210.0,
+      1857358.0,
+      1891025.0,
+      1903979.0,
+      1932711.0
+    ],
+    "prompt_processing_time_us": [
+      119578.0,
+      105573.0,
+      115351.0,
+      116700.0,
+      100005.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1187.6484375,
+      1364.2564697265625,
+      1369.863037109375,
+      1388.888916015625,
+      1751.3134765625
+    ],
+    "token_generation_time_us": [
+      102619.0,
+      100188.0,
+      97315.0,
+      121422.0,
+      97920.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      38.98027420043945,
+      39.92494201660156,
+      41.10490036010742,
+      32.94350051879883,
+      40.849674224853516
+    ]
+  }
+}

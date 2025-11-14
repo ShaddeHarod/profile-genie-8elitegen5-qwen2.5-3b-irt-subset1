@@ -1,0 +1,48 @@
+{
+  "subject": "high_school_computer_science",
+  "total_questions": 4,
+  "correct_count": 3,
+  "wrong_count": 1,
+  "accuracy_rate": 0.75,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1380.202,
+    "avg_token_generation_rate_toks_per_sec": 33.829,
+    "total_processed_answers": 4
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2382288.0,
+      2330293.0,
+      2709205.0,
+      2725578.0
+    ],
+    "prompt_processing_time_us": [
+      118512.0,
+      116717.0,
+      121795.0,
+      122075.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1156.0693359375,
+      1148.1055908203125,
+      1577.287109375,
+      1639.34423828125
+    ],
+    "token_generation_time_us": [
+      101752.0,
+      5040749.0,
+      4105219.0,
+      107225.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      39.3112678527832,
+      29.95626449584961,
+      28.744718551635742,
+      37.30508041381836
+    ]
+  }
+}

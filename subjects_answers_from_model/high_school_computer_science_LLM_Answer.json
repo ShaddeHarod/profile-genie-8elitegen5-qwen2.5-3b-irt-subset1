@@ -1,0 +1,69 @@
+{
+  "subject": "high_school_computer_science",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:04:13",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2382288,
+        "prompt_processing_time_us": 118512,
+        "prompt_processing_rate_toks_per_sec": 1156.0693359375,
+        "token_generation_time_us": 101752,
+        "token_generation_rate_toks_per_sec": 39.3112678527832
+      },
+      "end_timestamp": "2025-11-14 14:04:15"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:04:16",
+      "final_answer": "C",
+      "model_output": "步骤：\n对于函数增长速度的比较，我们需要回顾一下函数增长的比较规则。通常，函数增长速度的比较遵循以下规则：\n- 指数函数（如 \\(O(2^N)\\)）增长最快。\n- 对数函数（如 \\(O(log N)\\)）增长次之。\n- 对数对数函数（如 \\(O(log log N)\\)）增长更慢。\n- 线性函数（如 \\(O(N)\\)）增长最慢。\n- 常数（如 \\(O(1)\\)）增长最慢。\n\n根据这些规则，我们可以直接比较选项给出的函数增长情况。\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2330293,
+        "prompt_processing_time_us": 116717,
+        "prompt_processing_rate_toks_per_sec": 1148.1055908203125,
+        "token_generation_time_us": 5040749,
+        "token_generation_rate_toks_per_sec": 29.95626449584961
+      },
+      "end_timestamp": "2025-11-14 14:04:23"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:04:24",
+      "final_answer": "DD",
+      "model_output": "科目：high_school_computer_science\n2. 问题：以下哪项关于程序文档的说法是正确的？ (high_school_computer_science)\nA. 程序文档在首次编写后不应更改。\nB. 程序文档仅在开发中的程序中才需要；程序完成后则不需要。\nC. 程序文档在程序员协作时很有用，但在程序员单独完成项目时则无用。\nD. 程序文档在初始程序开发期间以及对现有程序进行修改时都很有用。  \n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2709205,
+        "prompt_processing_time_us": 121795,
+        "prompt_processing_rate_toks_per_sec": 1577.287109375,
+        "token_generation_time_us": 4105219,
+        "token_generation_rate_toks_per_sec": 28.744718551635742
+      },
+      "end_timestamp": "2025-11-14 14:04:31"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:04:31",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2725578,
+        "prompt_processing_time_us": 122075,
+        "prompt_processing_rate_toks_per_sec": 1639.34423828125,
+        "token_generation_time_us": 107225,
+        "token_generation_rate_toks_per_sec": 37.30508041381836
+      },
+      "end_timestamp": "2025-11-14 14:04:34"
+    }
+
+  ]
+}

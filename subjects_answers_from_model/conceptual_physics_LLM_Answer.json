@@ -1,0 +1,197 @@
+{
+  "subject": "conceptual_physics",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:00:50",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2439190,
+        "prompt_processing_time_us": 121731,
+        "prompt_processing_rate_toks_per_sec": 1133.786865234375,
+        "token_generation_time_us": 107473,
+        "token_generation_rate_toks_per_sec": 37.218997955322266
+      },
+      "end_timestamp": "2025-11-14 14:00:53"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:00:53",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2419598,
+        "prompt_processing_time_us": 117976,
+        "prompt_processing_rate_toks_per_sec": 1390.820556640625,
+        "token_generation_time_us": 100774,
+        "token_generation_rate_toks_per_sec": 39.693565368652344
+      },
+      "end_timestamp": "2025-11-14 14:00:56"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:00:56",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2379665,
+        "prompt_processing_time_us": 119909,
+        "prompt_processing_rate_toks_per_sec": 1201.923095703125,
+        "token_generation_time_us": 99280,
+        "token_generation_rate_toks_per_sec": 40.29008865356445
+      },
+      "end_timestamp": "2025-11-14 14:00:59"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:00:59",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2323259,
+        "prompt_processing_time_us": 118304,
+        "prompt_processing_rate_toks_per_sec": 1243.7811279296875,
+        "token_generation_time_us": 104458,
+        "token_generation_rate_toks_per_sec": 38.293636322021484
+      },
+      "end_timestamp": "2025-11-14 14:01:01"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:01:02",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2444001,
+        "prompt_processing_time_us": 120326,
+        "prompt_processing_rate_toks_per_sec": 1455.6041259765625,
+        "token_generation_time_us": 108571,
+        "token_generation_rate_toks_per_sec": 36.84326934814453
+      },
+      "end_timestamp": "2025-11-14 14:01:05"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:01:05",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2286780,
+        "prompt_processing_time_us": 116440,
+        "prompt_processing_rate_toks_per_sec": 1358.6956787109375,
+        "token_generation_time_us": 102355,
+        "token_generation_rate_toks_per_sec": 39.08081817626953
+      },
+      "end_timestamp": "2025-11-14 14:01:07"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:01:08",
+      "final_answer": "B",
+      "model_output": "步骤：\n- 频率是指单位时间内完成的完整周期数，与摆动所需的时间无关。\n- 周期是指完成一次完整摆动所需的时间，即摆锤来回摆动一次所需的时间。\n- 波长是波在介质中传播的距离，与摆动无关。\n- 振幅是摆动的最大位移，与摆动所需的时间无关。\n\n答案：B",
+      "performance_metrics": {
+        "init_time_us": 2299986,
+        "prompt_processing_time_us": 120472,
+        "prompt_processing_rate_toks_per_sec": 1096.4912109375,
+        "token_generation_time_us": 2887686,
+        "token_generation_rate_toks_per_sec": 30.82139015197754
+      },
+      "end_timestamp": "2025-11-14 14:01:13"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:01:13",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2633335,
+        "prompt_processing_time_us": 122214,
+        "prompt_processing_rate_toks_per_sec": 1269.0355224609375,
+        "token_generation_time_us": 106641,
+        "token_generation_rate_toks_per_sec": 37.509376525878906
+      },
+      "end_timestamp": "2025-11-14 14:01:16"
+    }
+,
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "start_timestamp": "2025-11-14 14:01:17",
+      "final_answer": "AA",
+      "model_output": "科目：conceptual_physics\n8. 问题：被抛出的棒球保持恒定的速度分量是 (conceptual_physics)\nA. 水平分量\n答案：A",
+      "performance_metrics": {
+        "init_time_us": 2525323,
+        "prompt_processing_time_us": 118558,
+        "prompt_processing_rate_toks_per_sec": 1190.4761962890625,
+        "token_generation_time_us": 1388658,
+        "token_generation_rate_toks_per_sec": 31.685678482055664
+      },
+      "end_timestamp": "2025-11-14 14:01:21"
+    }
+,
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "start_timestamp": "2025-11-14 14:01:21",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2298512,
+        "prompt_processing_time_us": 116122,
+        "prompt_processing_rate_toks_per_sec": 1267.4271240234375,
+        "token_generation_time_us": 101932,
+        "token_generation_rate_toks_per_sec": 39.24184799194336
+      },
+      "end_timestamp": "2025-11-14 14:01:24"
+    }
+,
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "start_timestamp": "2025-11-14 14:01:24",
+      "final_answer": "D",
+      "model_output": "步骤：要解答这个问题，我们需要考虑光在大气层中的行为。当太阳光进入地球大气层，其中的蓝色 (主要是紫色和蓝色) 光波长较短，因此更容易被大气中的气体分子 (主要是氮和氧) 散射。由于人眼对蓝色波长更为敏感，所以我们看到天空是蓝色的。\n\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2332083,
+        "prompt_processing_time_us": 72283,
+        "prompt_processing_rate_toks_per_sec": 1773.0496826171875,
+        "token_generation_time_us": 2528603,
+        "token_generation_rate_toks_per_sec": 30.848011016845703
+      },
+      "end_timestamp": "2025-11-14 14:01:29"
+    }
+,
+    {
+      "question_index": 11,
+      "global_index": 11,
+      "start_timestamp": "2025-11-14 14:01:29",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2444896,
+        "prompt_processing_time_us": 122291,
+        "prompt_processing_rate_toks_per_sec": 1572.3270263671875,
+        "token_generation_time_us": 106571,
+        "token_generation_rate_toks_per_sec": 37.53472137451172
+      },
+      "end_timestamp": "2025-11-14 14:01:32"
+    }
+
+  ]
+}

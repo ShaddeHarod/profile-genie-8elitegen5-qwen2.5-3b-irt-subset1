@@ -1,0 +1,38 @@
+{
+  "subject": "marketing",
+  "total_questions": 2,
+  "correct_count": 0,
+  "wrong_count": 2,
+  "accuracy_rate": 0.0,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1136.995,
+    "avg_token_generation_rate_toks_per_sec": 33.224,
+    "total_processed_answers": 2
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2965016.0,
+      2975697.0
+    ],
+    "prompt_processing_time_us": [
+      126048.0,
+      126526.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1175.088134765625,
+      1098.901123046875
+    ],
+    "token_generation_time_us": [
+      2590907.0,
+      106665.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      28.947750091552734,
+      37.500938415527344
+    ]
+  }
+}

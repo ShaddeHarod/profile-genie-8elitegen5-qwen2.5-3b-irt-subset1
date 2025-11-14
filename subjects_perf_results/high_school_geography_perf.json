@@ -1,0 +1,58 @@
+{
+  "subject": "high_school_geography",
+  "total_questions": 6,
+  "correct_count": 1,
+  "wrong_count": 5,
+  "accuracy_rate": 0.1667,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1229.268,
+    "avg_token_generation_rate_toks_per_sec": 35.447,
+    "total_processed_answers": 6
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2573876.0,
+      2310736.0,
+      2433202.0,
+      2821653.0,
+      2580532.0,
+      2817124.0
+    ],
+    "prompt_processing_time_us": [
+      124220.0,
+      123418.0,
+      127348.0,
+      126165.0,
+      123013.0,
+      126813.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1418.439697265625,
+      1150.748046875,
+      1091.7030029296875,
+      1269.0355224609375,
+      1333.3333740234375,
+      1112.3470458984375
+    ],
+    "token_generation_time_us": [
+      100998.0,
+      1407702.0,
+      107762.0,
+      105717.0,
+      2725044.0,
+      106651.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      39.60552978515625,
+      31.256837844848633,
+      37.11952590942383,
+      37.837223052978516,
+      29.35736656188965,
+      37.50656509399414
+    ]
+  }
+}

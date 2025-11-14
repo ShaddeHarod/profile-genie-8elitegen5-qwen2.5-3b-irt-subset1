@@ -1,0 +1,58 @@
+{
+  "subject": "college_mathematics",
+  "total_questions": 6,
+  "correct_count": 1,
+  "wrong_count": 5,
+  "accuracy_rate": 0.1667,
+  "answer_not_found": {
+    "count": 0,
+    "question_indices": []
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1585.93,
+    "avg_token_generation_rate_toks_per_sec": 41.661,
+    "total_processed_answers": 6
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2115120.0,
+      2096799.0,
+      2080447.0,
+      2082592.0,
+      2132086.0,
+      2097619.0
+    ],
+    "prompt_processing_time_us": [
+      109308.0,
+      108611.0,
+      109619.0,
+      109105.0,
+      109870.0,
+      68409.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1418.439697265625,
+      1464.1287841796875,
+      1204.8193359375,
+      1661.1295166015625,
+      1968.50390625,
+      1798.5611572265625
+    ],
+    "token_generation_time_us": [
+      99497.0,
+      94521.0,
+      95133.0,
+      95081.0,
+      96559.0,
+      95466.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      40.20262145996094,
+      42.31908416748047,
+      42.04684066772461,
+      42.0698356628418,
+      41.426734924316406,
+      41.900611877441406
+    ]
+  }
+}

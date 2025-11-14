@@ -1,0 +1,69 @@
+{
+  "subject": "econometrics",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:01:33",
+      "final_answer": "C",
+      "model_output": "科目：econometrics\n0. 问题：在下列哪种情况下, 自助抽样法优于纯模拟?\ni) 若希望实验数据的分布特性与某些实际数据的分布特性相同\nii) 若希望确切地知道实验中数据的分布特性\niii) 若实际数据的分布特性未知\niv) 若可用的实际数据样本非常小\n\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2607254,
+        "prompt_processing_time_us": 116949,
+        "prompt_processing_rate_toks_per_sec": 1865.671630859375,
+        "token_generation_time_us": 2617435,
+        "token_generation_rate_toks_per_sec": 30.946338653564453
+      },
+      "end_timestamp": "2025-11-14 14:01:38"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:01:39",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2416442,
+        "prompt_processing_time_us": 118407,
+        "prompt_processing_rate_toks_per_sec": 1960.7843017578125,
+        "token_generation_time_us": 103332,
+        "token_generation_rate_toks_per_sec": 38.71017837524414
+      },
+      "end_timestamp": "2025-11-14 14:01:41"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:01:42",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2293595,
+        "prompt_processing_time_us": 121160,
+        "prompt_processing_rate_toks_per_sec": 1239.1573486328125,
+        "token_generation_time_us": 100052,
+        "token_generation_rate_toks_per_sec": 39.979209899902344
+      },
+      "end_timestamp": "2025-11-14 14:01:44"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:01:45",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2238428,
+        "prompt_processing_time_us": 116462,
+        "prompt_processing_rate_toks_per_sec": 2087.6826171875,
+        "token_generation_time_us": 100514,
+        "token_generation_rate_toks_per_sec": 39.796241760253906
+      },
+      "end_timestamp": "2025-11-14 14:01:47"
+    }
+
+  ]
+}

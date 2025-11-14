@@ -1,0 +1,69 @@
+{
+  "subject": "college_chemistry",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 13:59:17",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 1836152,
+        "prompt_processing_time_us": 108566,
+        "prompt_processing_rate_toks_per_sec": 1216.5450439453125,
+        "token_generation_time_us": 95939,
+        "token_generation_rate_toks_per_sec": 41.694461822509766
+      },
+      "end_timestamp": "2025-11-14 13:59:20"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 13:59:20",
+      "final_answer": "C",
+      "model_output": "设 CO2 的浓度为 x M\n\n根据亨利定律: \\[P = k_H \times C\\]\n\n\\[2.0 = 30.0 \times x\\]\n\n\\[x = rac{2.0}{30.觇\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 1834545,
+        "prompt_processing_time_us": 110412,
+        "prompt_processing_rate_toks_per_sec": 1631.3214111328125,
+        "token_generation_time_us": 1806422,
+        "token_generation_rate_toks_per_sec": 32.66159439086914
+      },
+      "end_timestamp": "2025-11-14 13:59:24"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 13:59:24",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2117245,
+        "prompt_processing_time_us": 108786,
+        "prompt_processing_rate_toks_per_sec": 1472.7540283203125,
+        "token_generation_time_us": 96060,
+        "token_generation_rate_toks_per_sec": 41.64064025878906
+      },
+      "end_timestamp": "2025-11-14 13:59:26"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 13:59:27",
+      "final_answer": "DC",
+      "model_output": "科目：college_chemistry\n3. 问题：下列哪种光谱法使用光散射技术？ (college_chemistry)\nA. 核磁共振\nB. 红外线\nC. 拉曼\nD. 紫外线-可见光\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2103979,
+        "prompt_processing_time_us": 110279,
+        "prompt_processing_rate_toks_per_sec": 1251.564453125,
+        "token_generation_time_us": 2027586,
+        "token_generation_rate_toks_per_sec": 32.058475494384766
+      },
+      "end_timestamp": "2025-11-14 13:59:31"
+    }
+
+  ]
+}

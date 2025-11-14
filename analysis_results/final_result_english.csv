@@ -1,0 +1,21 @@
+﻿Metric,Value
+Device Info,2509FPN0BC
+Android Version,16
+RAM Size (GB),14.7
+SoC Chip,canoe
+Question Equal Weight Accuracy (%),40.33%
+Subject Equal Weight Accuracy (%),40.71%
+Baseline Memory (MB),6229.47
+Peak Memory (MB),9123.38
+Model Memory (MB),2893.91
+SoC Consumption (mAh),25.18
+SoC Average Power (mA),73.399
+Power Per Inference (mAh),0.083933
+Average Token Throughput (tokens/sec),35.966
+General First Token Time (μs),2710899.0
+First Token Time (μs),125174.0
+Average Time Per Question (ms),4117
+Test Start Time,2025-11-14T13:57:23
+Test End Time,2025-11-14T14:18:37
+Test Duration (ms),1235088
+Report Generated At,2025-11-14 14:39:27

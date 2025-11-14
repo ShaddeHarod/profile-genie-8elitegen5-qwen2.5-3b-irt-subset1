@@ -1,0 +1,181 @@
+{
+  "subject": "high_school_biology",
+  "answers": [
+    {
+      "question_index": 0,
+      "global_index": 0,
+      "start_timestamp": "2025-11-14 14:03:20",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2331640,
+        "prompt_processing_time_us": 117094,
+        "prompt_processing_rate_toks_per_sec": 1358.6956787109375,
+        "token_generation_time_us": 99697,
+        "token_generation_rate_toks_per_sec": 40.121971130371094
+      },
+      "end_timestamp": "2025-11-14 14:03:23"
+    }
+,
+    {
+      "question_index": 1,
+      "global_index": 1,
+      "start_timestamp": "2025-11-14 14:03:23",
+      "final_answer": "C",
+      "model_output": "步骤：\n- 雄性缎蓝园丁鸟使用鹦鹉羽毛、花和其他奇异装饰品装饰其房屋（称为“bowers”），这表明装饰行为是由雄性为了吸引雌性而演化，暗示了装饰行为是为了吸引雌性，而不是为了生存或逃避天敌，因此这不是关于自然选择的结果。\n- 雄性装饰行为的演化是为了吸引雌性，这表明装饰行为是为了吸引雌性，而不是为了生存或逃避天敌，因此这不是关于频率依赖选择的结果。\n- 雄性装饰行为是为了吸引雌性，因此这不是关于人工选择的结果。\n\n答案：C",
+      "performance_metrics": {
+        "init_time_us": 2184031,
+        "prompt_processing_time_us": 119492,
+        "prompt_processing_rate_toks_per_sec": 1567.3980712890625,
+        "token_generation_time_us": 4277567,
+        "token_generation_rate_toks_per_sec": 30.625057220458984
+      },
+      "end_timestamp": "2025-11-14 14:03:29"
+    }
+,
+    {
+      "question_index": 2,
+      "global_index": 2,
+      "start_timestamp": "2025-11-14 14:03:30",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2613844,
+        "prompt_processing_time_us": 121721,
+        "prompt_processing_rate_toks_per_sec": 1340.4825439453125,
+        "token_generation_time_us": 106755,
+        "token_generation_rate_toks_per_sec": 37.47002410888672
+      },
+      "end_timestamp": "2025-11-14 14:03:33"
+    }
+,
+    {
+      "question_index": 3,
+      "global_index": 3,
+      "start_timestamp": "2025-11-14 14:03:33",
+      "final_answer": "DD",
+      "model_output": "科目：high_school_biology\n3. 问题：在数周 3TC 治疗期间，患者的 HIV 病毒群体完全为 3TC 耐药病毒。此结果的最佳解释是什么？ (high_school_biology)\nA. HIV 可改变其表面蛋白，并抵抗疫苗。\nB. 患者必然为再次感染 3TC 耐药病毒。\nC. HIV 为应对药物，开始生成耐药的逆转录酶。\nD. 治疗开始时已经存在少量耐药病毒，自然选择增加这种病毒的频率。\n答案：D",
+      "performance_metrics": {
+        "init_time_us": 2545407,
+        "prompt_processing_time_us": 123413,
+        "prompt_processing_rate_toks_per_sec": 1661.1295166015625,
+        "token_generation_time_us": 4343872,
+        "token_generation_rate_toks_per_sec": 29.927576065063477
+      },
+      "end_timestamp": "2025-11-14 14:03:40"
+    }
+,
+    {
+      "question_index": 4,
+      "global_index": 4,
+      "start_timestamp": "2025-11-14 14:03:40",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2651154,
+        "prompt_processing_time_us": 121755,
+        "prompt_processing_rate_toks_per_sec": 1447.177978515625,
+        "token_generation_time_us": 106168,
+        "token_generation_rate_toks_per_sec": 37.6761360168457
+      },
+      "end_timestamp": "2025-11-14 14:03:43"
+    }
+,
+    {
+      "question_index": 5,
+      "global_index": 5,
+      "start_timestamp": "2025-11-14 14:03:44",
+      "final_answer": "A",
+      "model_output": "答案：A",
+      "performance_metrics": {
+        "init_time_us": 2439604,
+        "prompt_processing_time_us": 116701,
+        "prompt_processing_rate_toks_per_sec": 1466.275634765625,
+        "token_generation_time_us": 102506,
+        "token_generation_rate_toks_per_sec": 39.02286911010742
+      },
+      "end_timestamp": "2025-11-14 14:03:46"
+    }
+,
+    {
+      "question_index": 6,
+      "global_index": 6,
+      "start_timestamp": "2025-11-14 14:03:47",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2349355,
+        "prompt_processing_time_us": 118927,
+        "prompt_processing_rate_toks_per_sec": 1733.102294921875,
+        "token_generation_time_us": 104819,
+        "token_generation_rate_toks_per_sec": 38.162113189697266
+      },
+      "end_timestamp": "2025-11-14 14:03:49"
+    }
+,
+    {
+      "question_index": 7,
+      "global_index": 7,
+      "start_timestamp": "2025-11-14 14:03:50",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2294520,
+        "prompt_processing_time_us": 116891,
+        "prompt_processing_rate_toks_per_sec": 1240.69482421875,
+        "token_generation_time_us": 99630,
+        "token_generation_rate_toks_per_sec": 40.149356842041016
+      },
+      "end_timestamp": "2025-11-14 14:03:52"
+    }
+,
+    {
+      "question_index": 8,
+      "global_index": 8,
+      "start_timestamp": "2025-11-14 14:03:52",
+      "final_answer": "C",
+      "model_output": "答案：C",
+      "performance_metrics": {
+        "init_time_us": 2313686,
+        "prompt_processing_time_us": 116412,
+        "prompt_processing_rate_toks_per_sec": 1152.07373046875,
+        "token_generation_time_us": 102653,
+        "token_generation_rate_toks_per_sec": 38.96660614013672
+      },
+      "end_timestamp": "2025-11-14 14:03:55"
+    }
+,
+    {
+      "question_index": 9,
+      "global_index": 9,
+      "start_timestamp": "2025-11-14 14:03:55",
+      "final_answer": "D",
+      "model_output": "答案：D",
+      "performance_metrics": {
+        "init_time_us": 2319971,
+        "prompt_processing_time_us": 120069,
+        "prompt_processing_rate_toks_per_sec": 1483.6795654296875,
+        "token_generation_time_us": 100633,
+        "token_generation_rate_toks_per_sec": 39.74878692626953
+      },
+      "end_timestamp": "2025-11-14 14:03:58"
+    }
+,
+    {
+      "question_index": 10,
+      "global_index": 10,
+      "start_timestamp": "2025-11-14 14:03:58",
+      "final_answer": "B",
+      "model_output": "答案：B",
+      "performance_metrics": {
+        "init_time_us": 2302152,
+        "prompt_processing_time_us": 116659,
+        "prompt_processing_rate_toks_per_sec": 1552.7950439453125,
+        "token_generation_time_us": 99925,
+        "token_generation_rate_toks_per_sec": 40.03042221069336
+      },
+      "end_timestamp": "2025-11-14 14:04:01"
+    }
+
+  ]
+}

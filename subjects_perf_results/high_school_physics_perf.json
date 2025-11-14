@@ -1,0 +1,70 @@
+{
+  "subject": "high_school_physics",
+  "total_questions": 8,
+  "correct_count": 2,
+  "wrong_count": 6,
+  "accuracy_rate": 0.25,
+  "answer_not_found": {
+    "count": 1,
+    "question_indices": [
+      5
+    ]
+  },
+  "performance_metrics": {
+    "avg_prompt_processing_rate_toks_per_sec": 1433.459,
+    "avg_token_generation_rate_toks_per_sec": 35.14,
+    "total_processed_answers": 8
+  },
+  "detailed_metrics": {
+    "init_time_us": [
+      2631296.0,
+      2878795.0,
+      2891844.0,
+      2981011.0,
+      2889019.0,
+      2932243.0,
+      3158723.0,
+      2924591.0
+    ],
+    "prompt_processing_time_us": [
+      126405.0,
+      125824.0,
+      126517.0,
+      126739.0,
+      126320.0,
+      128118.0,
+      126573.0,
+      126822.0
+    ],
+    "prompt_processing_rate_toks_per_sec": [
+      1392.7576904296875,
+      1280.4097900390625,
+      1811.59423828125,
+      1176.4705810546875,
+      1228.501220703125,
+      1515.1514892578125,
+      1264.2225341796875,
+      1798.5611572265625
+    ],
+    "token_generation_time_us": [
+      105939.0,
+      106811.0,
+      107134.0,
+      106792.0,
+      109048.0,
+      7024769.0,
+      4694363.0,
+      106903.0
+    ],
+    "token_generation_rate_toks_per_sec": [
+      37.75864791870117,
+      37.45037841796875,
+      37.33711624145508,
+      37.455989837646484,
+      36.681095123291016,
+      28.471372604370117,
+      28.545330047607422,
+      37.418148040771484
+    ]
+  }
+}
