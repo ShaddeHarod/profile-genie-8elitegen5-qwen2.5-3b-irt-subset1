@@ -316,14 +316,15 @@ run_single_prompt_with_monitoring() {
             echo "=== Prompt #$idx (Subject: $subject, Question: $question_idx) ==="
 
             mkdir -p "result/temp/${subject}"
-            temp_output="${temp_dir}/${subject}/temp_${subject}_${idx}.json"
-
+            temp_output="${temp_dir}/${subject}/${subject}_${idx}_temp_output.json"
+            temp_profile="${temp_dir}/${subject}/${subject}_${idx}_temp_profile.json"
             formatted_prompt="<|im_start|>system\n你是一个做题专家。先思考并输出解题步骤，解题完后另起一行，此行只输出答案选项，格式必须为\"答案：A\"，（A或B或C或D，单选）最后一行不要添加格式要求外的任何其他文字或字符。<|im_end|><|im_start|>user\n${prompt}<|im_end|>\n<|im_end|><|im_start|>assistant\n"
             start_timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
             # 运行模型（后台启动，以便获取PID）
             /data/local/tmp/genie-qwen2.5-3b/genie-t2t-run \
               --config "genie_config.json" \
-              --prompt "$formatted_prompt" > "$temp_output" 2>&1 &
+              --prompt "$formatted_prompt" \
+              --profile "$temp_profile"> "$temp_output" 2>&1 &
             genie_pid=$!
 
             # 记录PID到全局文件
@@ -332,21 +333,26 @@ run_single_prompt_with_monitoring() {
             # 等待模型运行完成
             wait $genie_pid
             end_timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')
+            
+
+            # 在output末尾添加换行和[OVER]，代替为8elite等版本用的sed \[KPIS\]
+            echo -e "\n[OVER]" >> "$temp_output"
+
             # 答案处理
             if [ -f "$temp_output" ]; then
-              model_answer=$(sed -n '/\[BEGIN\]/,/\[KPIS\]/p' "$temp_output" | sed -n 'p/\[END\]/q' | sed 's/\[BEGIN\]: //;s/\[END\].*//')
+              model_answer=$(sed -n '/\[BEGIN\]/,/\[OVER\]/p' "$temp_output" | sed -n 'p/\[END\]/q' | sed 's/\[BEGIN\]: //;s/\[END\].*//')
               final_answer=$(echo "$model_answer" | tail -2 | sed 's/答案[:：[:space:]]*//g' | sed -n 's/\([ABCD,、 ]*\).*/\1/p' | tr -d '\n' | tr -d '\r' | sed 's/[[:space:],、]//g')
               [ -z "$final_answer" ] && final_answer="Answer Not Found"
 
               
               
-              # 提取[KPIS]性能指标
-              init_time=$(grep "Init Time:" "$temp_output" | sed 's/.*Init Time: \([0-9]*\) us.*/\1/')
-              prompt_time=$(grep "Prompt Processing Time:" "$temp_output" | sed 's/.*Prompt Processing Time: \([0-9]*\) us.*/\1/')
-              prompt_rate=$(grep "Prompt Processing Rate" "$temp_output" | sed 's/.*Prompt Processing Rate : \([0-9.]*\) toks\/sec.*/\1/')
-              token_time=$(grep "Token Generation Time:" "$temp_output" | sed 's/.*Token Generation Time: \([0-9]*\) us.*/\1/')
-              token_rate=$(grep "Token Generation Rate:" "$temp_output" | sed 's/.*Token Generation Rate: \([0-9.]*\) toks\/sec.*/\1/')
-
+              # 提取[KPIS]性能指标，改为从profile文本中提取
+              init_time=$(grep -A1 '"init-time"' "$temp_profile" | grep '"value"' | sed 's/.*"value": \([0-9]*\).*/\1/')
+              prompt_time=$(grep -A1 '"time-to-first-token"' "$temp_profile" | grep '"value"' | sed 's/.*"value": \([0-9]*\).*/\1/')
+              prompt_rate=$(grep -A1 '"prompt-processing-rate"' "$temp_profile" | grep '"value"' | sed 's/.*"value": \([0-9.]*\).*/\1/')
+              token_time=$(grep -A1 '"token-generation-time"' "$temp_profile" | grep '"value"' | sed 's/.*"value": \([0-9]*\).*/\1/')
+              token_rate=$(grep -A1 '"token-generation-rate"' "$temp_profile" | grep '"value"' | sed 's/.*"value": \([0-9.]*\).*/\1/')
+              
 
               subject_file="${temp_dir}/${subject}_answers.txt"
               echo "ANSWER_START" >> "$subject_file"
@@ -401,7 +407,7 @@ update_finished_progress() {
 
 
 
-    # 使用更安全的临时文件命名
+    # 更新finished_subjects.json中的完成题目数
     local temp_json="/tmp/temp_json_$$$(date +%s%3N)"
 
     cat "required_json/finished_subjects.json" > "$temp_json"
